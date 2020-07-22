@@ -76,8 +76,8 @@
 
 				var pedestal = new THREE.BoxBufferGeometry( 8, 2, 8);
 				var materialPedes = new THREE.MeshPhongMaterial( { color: 0xffffff, flatShading: true} );
-				materialPedes.map   = THREE.ImageUtils.loadTexture('./pedestal.jpg');
-				materialPedes.bumpMap   = THREE.ImageUtils.loadTexture('./pedestal.jpg');
+				materialPedes.map   = THREE.ImageUtils.loadTexture('./podio.jpg');
+				materialPedes.bumpMap   = THREE.ImageUtils.loadTexture('./podio.jpg');
 				materialPedes.bumpScale = 5;
 				var mesh0 = new THREE.Mesh( pedestal, materialPedes );
 				mesh0.position.x = 0;

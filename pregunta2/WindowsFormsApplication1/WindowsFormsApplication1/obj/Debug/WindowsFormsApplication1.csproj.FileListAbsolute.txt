@@ -1,0 +1,9 @@
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\xampp\htdocs\Parcial2_PM\pregunta2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
